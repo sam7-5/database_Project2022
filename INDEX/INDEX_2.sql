@@ -1,0 +1,1 @@
+create index CID on ORDERS (customer_id);
